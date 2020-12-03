@@ -1,1 +1,1 @@
-# dice-rolling-simulator-python
+# A dice rolling simulator
